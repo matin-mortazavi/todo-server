@@ -1,9 +1,38 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "todos": [
+    {
+      "priority": "medium",
+      "isCompleted": true,
+      "title": "dasda-edited3",
+      "id": "0"
+    },
+    {
+      "priority": "low",
+      "isCompleted": true,
+      "title": "dadsa-edted",
+      "id": "1"
+    },
+    {
+      "priority": "medium",
+      "isCompleted": true,
+      "title": "new-todo",
+      "id": "2"
+    },
+    {
+      "priority": "medium",
+      "title": "test",
+      "id": "3"
+    },
+    {
+      "priority": "medium",
+      "title": "without",
+      "id": "4"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": "matin",
+      "password": "123456"
+    }
+  ]
 }
